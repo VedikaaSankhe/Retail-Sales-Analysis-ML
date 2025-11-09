@@ -1,5 +1,4 @@
 ### 🧠 Customer Segmentation & Sales Forecasting – Online Retail
-## Author: Vedika Sankhe
 
 ---
 
