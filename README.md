@@ -148,7 +148,7 @@ Python 3.x
 
 
 ## 📁 Project Structure
-Online_retail.ipynb        # Main analysis notebook
+Online_retail_Analysis.ipynb        # Main analysis notebook
 online_retail_II cleaned.csv # Cleaned dataset
 README.md                   # Project documentation
 
