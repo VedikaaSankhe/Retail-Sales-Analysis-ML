@@ -149,11 +149,11 @@ Python 3.x
 
 ## 📁 Project Structure
 Online_retail_Analysis.ipynb        # Main analysis notebook
-online_retail_II cleaned.csv # Cleaned dataset
 README.md                   # Project documentation
 
 ---
-
+## Dataset Link
+![Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).  
